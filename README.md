@@ -2,7 +2,7 @@
 
 ### Bilgi
 
-[!İstatistiklerim](https://github-readme-stats.vercel.app/api?username=AlprSlcks&show_icons=true&theme=radical)](https://github.com/AlprSlcks)
+[!İstatistiklerim](https://github-readme-stats.vercel.app/api?username=AlprSlcks&show_icons=true&theme=radical)
 
 [![Bana Bakanlar](https://komarev.com/ghpvc/?username=AlprSlcks)](https://github.com/AlprSlcks)
 
