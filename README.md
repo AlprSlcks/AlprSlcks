@@ -1,8 +1,6 @@
 <h2>Merhaba Ben Cwesty!</h2>
 
-### Bilgi
-
-[!İstatistiklerim](https://github-readme-stats.vercel.app/api?username=AlprSlcks&show_icons=true&theme=radical)
+[![Github İstatistiğim](https://github-readme-stats.vercel.app/api?username=AlprSlcks&show_icons=true&theme=radical)](https://github.com/AlprSlcks)
 
 [![Bana Bakanlar](https://komarev.com/ghpvc/?username=AlprSlcks)](https://github.com/AlprSlcks)
 
